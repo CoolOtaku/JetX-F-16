@@ -1,0 +1,407 @@
+{
+  "button": {
+    "font": [
+      {
+        "name": "Samurai Blast",
+        "size": "64",
+        "regular_resource": {
+          "package": "assets.fonts",
+          "resource": "samurai_blast.ttf"
+        }
+      },
+      {
+        "locale": "uk",
+        "name": "Ustroke",
+        "size": "48",
+        "regular_resource": {
+          "package": "assets.fonts",
+          "resource": "ustroke.ttf"
+        }
+      }
+    ],
+    "colours": {
+      "normal_bg": "#021E20",
+      "hovered_bg": "#B96B85",
+      "normal_text": "#ffffff",
+      "hovered_text": "#021E20",
+      "normal_border": "#048399",
+      "hovered_border": "#FEB9C6"
+    },
+    "misc": {
+      "border_width": "3",
+      "state_transitions": {
+        "normal_hovered": "0.5",
+        "hovered_normal": "0.5"
+      }
+    }
+  },
+  "window": {
+    "colours": {
+      "dark_bg": "#005067",
+      "normal_border": "#021E20"
+    },
+    "misc": {
+      "shape": "rounded_rectangle",
+      "shape_corner_radius": "15",
+      "border_width": "3",
+      "title_bar_height": "20",
+      "enable_close_button": "0"
+    }
+  },
+  "window.#title_bar": {
+    "font": [
+      {
+        "name": "Samurai Blast",
+        "size": "20",
+        "regular_resource": {
+          "package": "assets.fonts",
+          "resource": "samurai_blast.ttf"
+        }
+      },
+      {
+        "locale": "uk",
+        "name": "Ustroke",
+        "size": "20",
+        "regular_resource": {
+          "package": "assets.fonts",
+          "resource": "samurai_blast.ttf"
+        }
+      }
+    ],
+    "misc": {
+      "text_horiz_alignment": "center",
+      "border_width": "0"
+    }
+  },
+  "selection_list": {
+    "colours": {
+      "dark_bg": "#005067"
+    },
+    "misc": {
+      "shape": "rectangle",
+      "border_width": "0",
+      "list_item_height": "75"
+    }
+  },
+  "selection_list.@selection_list_item": {
+    "misc": {
+      "border_width": "3"
+    },
+    "font": [
+      {
+        "name": "Samurai Blast",
+        "size": "20",
+        "regular_resource": {
+          "package": "assets.fonts",
+          "resource": "samurai_blast.ttf"
+        }
+      },
+      {
+        "locale": "uk",
+        "name": "Ustroke",
+        "size": "20",
+        "regular_resource": {
+          "package": "assets.fonts",
+          "resource": "samurai_blast.ttf"
+        }
+      }
+    ]
+  },
+  "panel": {
+    "colours": {
+      "dark_bg": "#021E20",
+      "normal_border": "#048399"
+    },
+    "misc": {
+      "shape": "rounded_rectangle",
+      "shape_corner_radius": "15",
+      "border_width": "3"
+    }
+  },
+  "label": {
+    "font": [
+      {
+        "name": "Samurai Blast",
+        "size": "20",
+        "regular_resource": {
+          "package": "assets.fonts",
+          "resource": "samurai_blast.ttf"
+        }
+      },
+      {
+        "locale": "uk",
+        "name": "Ustroke",
+        "size": "20",
+        "regular_resource": {
+          "package": "assets.fonts",
+          "resource": "samurai_blast.ttf"
+        }
+      }
+    ],
+    "colours": {
+      "normal_text": "#ffffff"
+    }
+  },
+  "progress_bar": {
+    "colours": {
+      "normal_text": "#ffffff",
+      "normal_border": "#048399",
+      "filled_bar": "#cf0a1e,#b52852,150",
+      "unfilled_bar": "#CCCCCC"
+    },
+    "font": [
+      {
+        "name": "Samurai Blast",
+        "size": "14",
+        "regular_resource": {
+          "package": "assets.fonts",
+          "resource": "samurai_blast.ttf"
+        }
+      },
+      {
+        "locale": "uk",
+        "name": "Ustroke",
+        "size": "14",
+        "regular_resource": {
+          "package": "assets.fonts",
+          "resource": "samurai_blast.ttf"
+        }
+      }
+    ]
+  },
+  "drop_down_menu.#selected_option": {
+    "misc": {
+      "border_width": "3",
+      "open_button_width": "25"
+    },
+    "font": [
+      {
+        "name": "Samurai Blast",
+        "size": "14",
+        "regular_resource": {
+          "package": "assets.fonts",
+          "resource": "samurai_blast.ttf"
+        }
+      },
+      {
+        "locale": "uk",
+        "name": "Ustroke",
+        "size": "14",
+        "regular_resource": {
+          "package": "assets.fonts",
+          "resource": "samurai_blast.ttf"
+        }
+      }
+    ]
+  },
+  "@settings_buttons": {
+    "font": [
+      {
+        "name": "Samurai Blast",
+        "size": "20",
+        "regular_resource": {
+          "package": "assets.fonts",
+          "resource": "samurai_blast.ttf"
+        }
+      },
+      {
+        "locale": "uk",
+        "name": "Ustroke",
+        "size": "20",
+        "regular_resource": {
+          "package": "assets.fonts",
+          "resource": "samurai_blast.ttf"
+        }
+      }
+    ]
+  },
+  "@control_buttons": {
+    "font": [
+      {
+        "name": "Samurai Blast",
+        "size": "14",
+        "regular_resource": {
+          "package": "assets.fonts",
+          "resource": "samurai_blast.ttf"
+        }
+      },
+      {
+        "locale": "uk",
+        "name": "Ustroke",
+        "size": "14",
+        "regular_resource": {
+          "package": "assets.fonts",
+          "resource": "samurai_blast.ttf"
+        }
+      }
+    ]
+  },
+  "@statistics_texts": {
+    "colours": {
+      "normal_text": "#B96B85"
+    }
+  },
+  "@game_buttons": {
+    "font": [
+      {
+        "name": "Samurai Blast",
+        "size": "10",
+        "regular_resource": {
+          "package": "assets.fonts",
+          "resource": "samurai_blast.ttf"
+        }
+      },
+      {
+        "locale": "uk",
+        "name": "Ustroke",
+        "size": "10",
+        "regular_resource": {
+          "package": "assets.fonts",
+          "resource": "samurai_blast.ttf"
+        }
+      }
+    ],
+    "misc": {
+      "shape": "rounded_rectangle",
+      "shape_corner_radius": "45"
+    }
+  },
+  "#locale_button": {
+    "images": {
+      "normal_image": {
+        "package": "assets.images",
+        "resource": "locale.png",
+        "sub_surface_rect": "0,0,83,83"
+      }
+    }
+  },
+  "#up_button": {
+    "images": {
+      "normal_image": {
+        "package": "assets.images",
+        "resource": "up_icon.png",
+        "sub_surface_rect": "0,0,100,100"
+      }
+    }
+  },
+  "#down_button": {
+    "images": {
+      "normal_image": {
+        "package": "assets.images",
+        "resource": "down_icon.png",
+        "sub_surface_rect": "0,0,100,100"
+      }
+    }
+  },
+  "#to_twist_button": {
+    "images": {
+      "normal_image": {
+        "package": "assets.images",
+        "resource": "to_twist.png",
+        "sub_surface_rect": "0,0,50,50"
+      }
+    },
+    "misc": {
+      "shape": "rounded_rectangle",
+      "shape_corner_radius": "25"
+    }
+  },
+  "#exit_button": {
+    "images": {
+      "normal_image": {
+        "package": "assets.images",
+        "resource": "close_icon.png",
+        "sub_surface_rect": "0,0,50,50"
+      }
+    },
+    "misc": {
+      "shape": "rounded_rectangle",
+      "shape_corner_radius": "25"
+    }
+  },
+  "#bullet_button": {
+    "images": {
+      "normal_image": {
+        "package": "assets.images",
+        "resource": "bullet_icon.png",
+        "sub_surface_rect": "0,0,100,100"
+      }
+    }
+  },
+  "#rocket_button": {
+    "images": {
+      "normal_image": {
+        "package": "assets.images",
+        "resource": "rocket_icon.png",
+        "sub_surface_rect": "0,0,100,100"
+      }
+    }
+  },
+  "#infrared_button": {
+    "images": {
+      "normal_image": {
+        "package": "assets.images",
+        "resource": "infrared.png",
+        "sub_surface_rect": "0,0,50,50"
+      }
+    },
+    "misc": {
+      "shape": "rounded_rectangle",
+      "shape_corner_radius": "25"
+    }
+  },
+  "#message_window": {
+    "colours": {
+      "dark_bg": "#021E20"
+    },
+    "misc": {
+      "shape": "rectangle",
+      "title_bar_height": "35"
+    }
+  },
+  "message_window.#dismiss_button": {
+    "font": [
+      {
+        "name": "Samurai Blast",
+        "size": "14",
+        "regular_resource": {
+          "package": "assets.fonts",
+          "resource": "samurai_blast.ttf"
+        }
+      },
+      {
+        "locale": "uk",
+        "name": "Ustroke",
+        "size": "14",
+        "regular_resource": {
+          "package": "assets.fonts",
+          "resource": "samurai_blast.ttf"
+        }
+      }
+    ]
+  },
+  "message_window.text_box": {
+    "colours": {
+      "dark_bg": "#021E20"
+    },
+    "font": [
+      {
+        "name": "Samurai Blast",
+        "size": "18",
+        "regular_resource": {
+          "package": "assets.fonts",
+          "resource": "samurai_blast.ttf"
+        }
+      },
+      {
+        "locale": "uk",
+        "name": "Ustroke",
+        "size": "18",
+        "regular_resource": {
+          "package": "assets.fonts",
+          "resource": "samurai_blast.ttf"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "uk": {
+    "play": "грати",
+    "settings": "налаштування",
+    "quit": "покинути",
+    "select_a_map": "вибрати мапу",
+    "cancel": "скасувати",
+    "sounds": "звуки:",
+    "volume_of_all_objects": "гучність усіх об'єктів:",
+    "music_volume": "гучність музики:",
+    "display_mode": "режим відображення:",
+    "save": "зберегти",
+    "statistics": "статистика",
+    "killing": "ліквідовано",
+    "wins": "виграно",
+    "loses": "поразок",
+    "health": "здоров'я",
+    "control": "керування:",
+    "move_up": "рухатися вгору",
+    "move_down": "рухатися вниз",
+    "to_twist": "перекрутити",
+    "machine_gun": "кулемет",
+    "rocket": "ракета",
+    "infrared_countermeasure": "інфрачервона протидія",
+    "message_window_title": "Ви перелетіли дозволене!",
+    "message_window_text": "самознищення через:",
+    "play_again": "зіграти знову",
+    "return_to_menu": "повернутися до меню"
+  }
+}

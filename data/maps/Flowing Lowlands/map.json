@@ -1,0 +1,22 @@
+{
+  "is_two_types_of_enemies": true,
+  "enemies_x": 576,
+  "enemies_y": 640,
+  "bg": [
+    {
+      "res": "res/bg_map_2.jpg",
+      "x": 0,
+      "y": -48
+    },
+    {
+      "res": "res/bg_map_top.png",
+      "x": 0,
+      "y": -858
+    }
+  ],
+  "start_bg": {
+    "res": "res/bg_start.png",
+    "x": 0,
+    "y": -48
+  }
+}

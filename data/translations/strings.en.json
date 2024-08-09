@@ -1,0 +1,30 @@
+{
+  "en": {
+    "play": "play",
+    "settings": "settings",
+    "quit": "quit",
+    "select_a_map": "select a map",
+    "cancel": "cancel",
+    "sounds": "sounds:",
+    "volume_of_all_objects": "volume of all objects:",
+    "music_volume": "music volume:",
+    "display_mode": "display mode:",
+    "save": "save",
+    "statistics": "statistics",
+    "killing": "killing",
+    "wins": "wins",
+    "loses": "loses",
+    "health": "health",
+    "control": "control:",
+    "move_up": "move up",
+    "move_down": "move down",
+    "to_twist": "to twist",
+    "machine_gun": "machine gun",
+    "rocket": "rocket",
+    "infrared_countermeasure": "infrared countermeasure",
+    "message_window_title": "You have flown over the permitted limit!",
+    "message_window_text": "self-destruction through:",
+    "play_again": "play again",
+    "return_to_menu": "return to menu"
+  }
+}
