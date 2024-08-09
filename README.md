@@ -28,6 +28,10 @@ This is my programming term paper on "Developing games using the [**PyGame**](ht
 </p>
 
 #
+## Video demonstration:
+[![Video demonstration](https://i9.ytimg.com/vi/etoVw_5Qjeo/mqdefault.jpg?v=66b6289d&sqp=CJTS2LUG-oaymwEmCMACELQB8quKqQMa8AEB-AH6CYAC0AWKAgwIABABGEAgXShlMA8=&rs=AOn4CLCnqf_zUoTKyKGfg3_CG8vpd7gDUA)](https://www.youtube.com/watch?v=etoVw_5Qjeo)
+
+#
 ## Technologies used
 <b>EN:</b>
 - Creating a 2D game using the library [**PyGame**](https://www.pygame.org)
