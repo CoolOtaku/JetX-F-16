@@ -17,7 +17,7 @@ This is my programming term paper on "Developing games using the [**PyGame**](ht
 Це моя курсова робота з програмування на тему «Розробка ігор з використанням фреймворку [**PyGame**](https://www.pygame.org/news)».
 
 #
-## Screenshots:
+## Screenshots
 <p align="center">
   <img src="screenshots/1.png" height="20%"/>
   <img src="screenshots/2.jpg" height="20%"/>
@@ -28,7 +28,7 @@ This is my programming term paper on "Developing games using the [**PyGame**](ht
 </p>
 
 #
-## Video demonstration:
+## Video demonstration
 [![Video demonstration](screenshots/demo.webp)](https://www.youtube.com/watch?v=etoVw_5Qjeo)
 
 #
