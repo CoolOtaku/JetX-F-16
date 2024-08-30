@@ -29,7 +29,7 @@ This is my programming term paper on "Developing games using the [**PyGame**](ht
 
 #
 ## Video demonstration:
-[![Video demonstration]()](https://www.youtube.com/watch?v=etoVw_5Qjeo)
+[![Video demonstration](screenshots/demo.webp)](https://www.youtube.com/watch?v=etoVw_5Qjeo)
 
 #
 ## Technologies used
