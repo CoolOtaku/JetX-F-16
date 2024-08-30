@@ -18,7 +18,7 @@ This is my programming term paper on "Developing games using the [**PyGame**](ht
 
 #
 ## Screenshots:
-<p>
+<p align="center">
   <img src="screenshots/1.png" height="20%"/>
   <img src="screenshots/2.jpg" height="20%"/>
   <img src="screenshots/3.png" height="20%"/>
@@ -29,7 +29,7 @@ This is my programming term paper on "Developing games using the [**PyGame**](ht
 
 #
 ## Video demonstration:
-[![Video demonstration](https://i.ytimg.com/an_webp/etoVw_5Qjeo/mqdefault_6s.webp?du=3000&sqp=CNTNx7YG&rs=AOn4CLBEx23cqmE21s_lnImHubt9fhxDNg)](https://www.youtube.com/watch?v=etoVw_5Qjeo)
+[![Video demonstration]()](https://www.youtube.com/watch?v=etoVw_5Qjeo)
 
 #
 ## Technologies used
