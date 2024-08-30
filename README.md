@@ -20,21 +20,22 @@ This is my programming term paper on "Developing games using the [**PyGame**](ht
 ## Screenshots:
 <p>
   <img src="screenshots/1.png" height="20%"/>
-  <img src="screenshots/2.png" height="20%"/>
+  <img src="screenshots/2.jpg" height="20%"/>
   <img src="screenshots/3.png" height="20%"/>
   <img src="screenshots/4.png" height="20%"/>
-  <img src="screenshots/5.png" height="20%"/>
+  <img src="screenshots/5.jpg" height="20%"/>
   <img src="screenshots/6.png" height="20%"/>
 </p>
 
 #
 ## Video demonstration:
-[![Video demonstration](https://i9.ytimg.com/vi/etoVw_5Qjeo/mqdefault.jpg?v=66b6289d&sqp=CJTS2LUG-oaymwEmCMACELQB8quKqQMa8AEB-AH6CYAC0AWKAgwIABABGEAgXShlMA8=&rs=AOn4CLCnqf_zUoTKyKGfg3_CG8vpd7gDUA)](https://www.youtube.com/watch?v=etoVw_5Qjeo)
+[![Video demonstration](https://i.ytimg.com/an_webp/etoVw_5Qjeo/mqdefault_6s.webp?du=3000&sqp=CNTNx7YG&rs=AOn4CLBEx23cqmE21s_lnImHubt9fhxDNg)](https://www.youtube.com/watch?v=etoVw_5Qjeo)
 
 #
 ## Technologies used
 <b>EN:</b>
 - Creating a 2D game using the library [**PyGame**](https://www.pygame.org)
+- Work on such platforms as: **Windows, macOS, GNU/Linux, Android**
 - Creation of the user interface of the game using the library [**PyGame-GUI**](https://pygame-gui.readthedocs.io)
 - Using the [**OpenCV-Python**](https://pypi.org/project/opencv-python/) library to download and process **GIF** images.
 - Working with the **JSON** format
@@ -44,9 +45,11 @@ This is my programming term paper on "Developing games using the [**PyGame**](ht
 - Different behaviors on different platforms
 - Creation of game console commands
 - Multi streaming
+- Creating animations in **Adobe Photoshop**
 
 <b>UA:</b>
 - Створення 2D гри за допомогою бібліотеки [**PyGame**](https://www.pygame.org)
+- Робота на таких платформах як: **Windows, macOS, GNU/Linux, Android**
 - Створення користувацького інтерфейсу гри за допомогою бібліотеки [**PyGame-GUI**](https://pygame-gui.readthedocs.io)
 - Використання бібліотеки [**OpenCV-Python**](https://pypi.org/project/opencv-python/) для завантаження та обробки **GIF**-зображень.
 - Робота з форматом **JSON**
@@ -56,6 +59,7 @@ This is my programming term paper on "Developing games using the [**PyGame**](ht
 - Різні поведінки на різних платформах
 - Створення консольних команд гри
 - Багато потоковість
+- Створення анімацій в **Adobe Photoshop**
 
 #
 ## License
